@@ -1,0 +1,615 @@
+Fictional dialogues (based on Fictional dialogues_051022_AM)
+D1
+OT_01
+"Ja ja, alle bransjer har sine ulemper, og ei rimelig fortjeneste kan ingen ha innvendinger imot."
+"Nei visst, nei visst, og blir det ingen fortjeneste på det ene eller det andre, ja, så tar jeg det jo inn over langs, ikke sant - he he he!"
+"Akkurat."
+D2
+OT_52
+"Vent. Vet du virkelig alt?" 
+"Alt. Du gav meg lov til, når som helst innen et år var gått, å gjenoppta emnet for vår siste samtale."
+"Jeg gjorde det."
+D3
+OT_12
+"Grusomt, er det." 
+"Jamen er det så. Liker'u'kke østers, du?" 
+"Ikke så veldig. Jeg liker å se at du spiser dem, Frode skatt, bedre enn jeg liker dem sjøl."
+D4
+OT_18
+"Jeg - jeg - burde ha reist herfra før." 
+"Ja, det burde du. Tilgi at jeg sier det, men jeg skulle ønske du hadde gjort det."
+"Det som førte meg hit, var en engstelse, den frykteligste, den vondeste som tenkes kan - frykten for å miste det ene, det kjæreste vesen som alle mine ønsker og håp kretser rundt. Du var døende - vippet mellom himmel og jord. Vi vet jo at når sykdom rammer de unge, de skjønne og gode, da vender deres sinn seg uvilkårlig mot sin skinnende, evige hvile, og slik har det seg at de beste og fineste så ofte dør midt i sin blomstring."
+D5
+OT_31
+"Det sku jeg gjerne, vensen, men det er'kke hver dag det er en pengeskuff å tømme, og etterpå gjelder det å sleppe unna."
+"Til hilske med pengeskuffer! Det fins andre ting enn skuffer å tømme."
+"Hva da, mener du?"
+D6
+OT_38
+"Jeg trur a må ha fått en snev av den feberen i blodet, og ikke snakk om at'n gir seg, hæ?"
+"Sikkert."
+"Jeg kan alltids tappe litt blod av a uten å bry dokter'n, hvis at a får et slikt anfall igjen."
+D7
+OT_07
+"Ikke bry deg om meg, lille venn."
+"Jeg får meg bare en god omgang gråt. Se så, da var det over, nå er jeg meg selv igjen."
+"De er veldig, veldig snill mot meg, Hilde."
+"Det skal du ikke tenke på, vennen min."
+"Det har ingenting med buljongen din å gjøre, og den er det jamen på tide at du får, for doktoren sier at Helge kanskje kommer og ser til deg nå i formiddag, så vi må jo se godt ut, for jo bedre vi ser ut, desto gladere blir han."
+D8
+OT_13
+"Mot hvem da?" 
+"Den snille mannen og den søte gamle pleierska som passa på meg så godt før."
+"Om dem visste hvor lykkelig jeg er, hadde dem sikkert blitt glad." 
+"Det ville de helt sikkert."
+"Og doktor Johansen har allerede vært så elskverdig å love at når du er blitt frisk nok til det, skal han selv komme og ta deg med på et besøk dit."
+D9
+OT_32
+"Toppen av kransekaka."
+"Har en drøss med folk og den beste banden i bransjen."
+"Årntlige byfolk?" 
+"Ikke en bondegutt blant dem. Og jeg trur'kke han hadde tatt deg, sjøl på min anbefaling, hvis at det ikke var for at'n er i litt beit for hjelpere akkurat nå."
+D10
+OT_37
+"Jeg føler meg'kke bra. Jeg har sagt deg det før. Jeg trenger litt frisk luft."
+"Stikk huet ut av vinduet, da, og få det derifra."
+"Det er'kke nok der. Jeg vil ha det på gata."
+D11
+OT_36
+"Vi må finne ut åssen det går med'n i dag på en eller annen måte.  La meg tenke."
+"Skal jeg gå?"
+"Ikke for alt i verden. Er du sprø, venn min, splitter gærn; vil du spasere rett inn på nettopp det stedet hvor - nei, Gunnar, nei. Å miste én om gangen får være nok."
+D12
+OT_30
+"Jeg veit at jeg er'kke så gløgg som deg, men ikke legg all skylda på meg og si at jeg hadde blitt bura inn. Det hadde du blitt òg, om dem hadde tatt meg."
+"Det var deg som tok penga fra skuffen, det veit du."
+"Det var deg jeg tok dem for, kjære Emil."
+"Beholdt jeg dem kanskje?"
+D13
+OT_06
+"Bor du i Oslo?" 
+"Gjør så, ja, til hverdags. Da trenger du vel en plass å sove i natt, da?" 
+"Det skal være visst. Jeg har ikke sovi under tak sia jeg dro."
+"Bare ta det rolig. Jeg må inn til Oslo i kveld sjøl, og jeg kjenner en 'spektabel gammal mann som bor der som gir deg losjemang for null blank og aldri krangler om vekslepenga. Altså hvis at du blir presentert for'n av en'n kjenner. Og trur du'n kjenner meg? Hå nei, ikke i hele tatt, ikke snakk om, nei langt ifra."
+D14
+OT_24
+"Og hvilket navn skal jeg melde?" 
+"Det er'kke noen vits i noe navn."
+"Eller ærende?" 
+"Nei, ikke det heller. Jeg må snakke med dama."
+D15
+OT_25
+"Hvordan det?" 
+"For det, at det jeg gjør nå, det er å legge livet mitt, og andres òg, i dine hender. Jeg er den jenta som drassa lille Christian tilbakers til Gaarder, den kvelden 'n gikk ut fra huset i Notodden." 
+"Du!" 
+"Jeg, ja, frøken. Jeg er et sånt berykta vesen du har hørt om som menger seg med tjuver, og som aldri, fra første stunda jeg slo opp øya mot Tromsø-gatene, har kjent noe bedre liv eller hørt snillere ord enn jeg har møtt der, så hjelpe meg Gud! Så det gjør'kke noe om Dere skvetter og tar avstand fra meg, frøken. Jeg er yngre enn du trur etter utseendet, men det er jeg så vant til. Fattige kvinnfolk skvetter unna, de med, når jeg trenger meg mellom dem på et fullt fortau."
+D16
+OT_41
+"De var ikke her sist søndag kveld."
+"Jeg kun'kke komme. Jeg blei holdt igjen med makt."
+"Av hvem?"
+"Leif - han jeg fortalte om til den unge dama."
+D17
+OT_23
+"Du er redd, Arild."
+"Nehei."
+"Hå jo da."
+"Der sa du noe usant, Tore."
+"Der løy du, Arild."
+D18
+OT_35
+"Den beste medhjelperen min blei tatt fra meg i går morges." 
+"Hva, han var vel - " 
+"Ettersøkt. Ja, han var ettersøkt." 
+"Sånn spesielt?" 
+"Nei, ikke så særlig. Han blei hekta for forsøk på lommetjuveri, og dem fant ei sølv snusdåse på'n - hans egen, min venn, for'n snusa sjøl og var veldig glad i'n. Dem har holdt'n i varetekt til i dag, for dem trudde dem visste hvem eieren var. Ah! Han var verdt femti sånne dåser, og jeg sku gjerne betalt for like mange for å få'n igjen. Du sku kjent Enberg, venn min, Enberg sku du kjent." 
+"Vel, jeg får vel bli kjent med'n, håper jeg. Trur'kke du?"
+D19
+CP_03
+"Men hvordan kjenner dumeg, om jeg tør spørre?" 
+"Vel, det husker du altså ikke! I forgårs vant jeg tre partier på rad mot deg, da vi spilte biljard i ølstuen Gambrinus.”
+ "Å nå ..." 
+"Så her er det altså ingen hjemme. Merkelig. Forbasket idiotisk også, forresten. Hvor kan vel gamla ha gått hen? Jeg har et ærend til henne." 
+"Ja, det har vel jeg også."
+D20
+CP_13
+"Hvor har dudet fra?" 
+"Å, jeg vet kanskje mer enn deg." 
+"Så underlig du er ... du må være temmelig syk fremdeles ... du skulle nok ha ventet med å gå ut ... " 
+" Så du synes jeg er underlig?" 
+"Ja. Hva er det du leser der, aviser?" 
+"Ja, aviser." 
+"De skriver mye om alle disse brannene."
+D21
+CP_17
+"Jeg vil leie leiligheten. Jeg ser meg om." 
+"Folk kommer ikke og skal leie leiligheter ved nattetid; og dessuten må dørvakta være med da." 
+"Gulvet er vasket, skal det males? Er blodet vekk?" 
+"Hva for slags blod?" 
+"Den gamle og søsteren hennes ble jo drept. Det var en stor blodpøl her."
+D22
+CP_32
+"Hvor skal du hen? Vi er jo fremme nå!" 
+"Det er noe jeg må ordne ... et ærend ... jeg er tilbake om en halvtime ... Gi de andre beskjed." 
+"Som du vil, men jeg blir med deg."
+D23
+CP_37
+"Du har visst ikke snakket med noen på flere dager?” 
+"Ja, det kan man kanskje si. Du undrer deg kanskje over at jeg er en så omgjengelig mann?" 
+"Nei, det som undrer meg er at du er så altfor omgjengelig."
+D24
+CP_45
+"Neimen hvordan kan du si noe slikt?" 
+"Vel, hvem vet? Kanskje jeg er gal, rett og slett, og alt som har skjedd i løpet av disse dagene er noe som bare har funnet sted i min egen innbildning ..." 
+"Å Jonas, nå har de klart å få deg helt ute av deg igjen! ... Men hva var det han sa? Hva var det han kom for?"
+D25
+CP_83
+"Men en ting vil jeg si deg, Rune, at selv om jeg er aldri så dum, så er jeg sikker på at du veldig snart vil bli en av de fremste, om ikke den fremste, blant våre lærde. Og likevel er det noen som våger å mene at du skulle ha gått fra forstanden. Ha-ha-ha! Ja, du vet det ikke, men det er de som tror det! For noen usle kryp de er! Skjønt hvordan skulle de nå også kunne begripe hva vett og forstand er for noe! Men vet du hva, Elisabeth var også på nippet til å tro det, Elisabeth - kan du tenke deg! Din avdøde far sendte et par ganger ting han hadde skrevet til tidsskriftene - i begynnelsen var det dikt (jeg har ennå kladdeboken hvor han skrev dem, jeg skal vise deg den en dag), deretter en hel novelle, ja, en av de lange (jeg spurte ham selv om lov til å skrive den av) men selv om vi alle sammen bad til Gud om at den måtte bli antatt, så antok de den allikevel ikke! Vet du hva, Rune, for en ukes tid siden var jeg helt fortvilet, da jeg så hvordan du gikk kledt og hvordan du bor og lever. Men nå innser jeg at jeg nok en gang har oppført meg dumt, for hvis du bare legger viljen til, kan du med din gode forstand og ditt talent med ett slag skaffe deg hva det skal være. Det er bare det at du foreløpig er så opptatt med langt viktigere ting, derfor har du ikke brydd deg med dette ..." 
+"Mor, er ikke Liss hjemme?" 
+"Nei, Rune. Det hender svært ofte at hun ikke er hjemme, hun går ut og lar meg sitte alene igjen. Sigmund kommer ofte innom, og da snakker vi alltid om deg. Han skal ha takk fordi han holder meg med selskap på denne måten. Kjære Rune, du skal vite at han setter svært stor pris på deg, ja han ser opp til deg. Når det gjelder din søster, vil jeg ikke akkurat si at hun ikke har respekt for meg. Jeg ønsker ikke å beklage meg på noen måte. Hun er jo som hun er, akkurat som jeg er som jeg er, og nettopp nå har hun noen hemmeligheter for dere. Men selvfølgelig vet jeg for visst at Eli er altfor klok til å ... og dessuten elsker hun oss begge så høyt ... men jeg vet faktisk ikke hvordan alt dette vil ende. Det gjorde meg så lykkelig at du kom, Rune, men hun er altså ute på vift et eller annet sted. Når hun kommer tilbake, skal jeg fortelle henne at du har vært her: Mens du var borte, har din bror vært her, hvor i all verden er det du har holdt til? Men Rune, du behøver slett ikke å skjenne meg bort: Hvis du kan, så kom innom, hvis ikke - vel, så er det ikke noe å gjøre med det, jeg kan alltids sitte og vente på deg. Jeg vet likevel alltid med meg selv at du er glad i meg, og det er nok for meg. Jeg vil sitte her og lese det som du har skrevet, jeg vil høre om deg fra alle mennesker, og så, før jeg vet ordet av det, kommer du og besøker meg ... Kan jeg vel ønske meg noe bedre? Nå er du jo kommet for å trøste din mor, det kan jeg se ..."
+D26
+CP_30
+"Du er mistroisk, derfor veier du ordene dine ... Hm ... Jeg skal være enig med deg i at Elstad sin tone var ganske merkelig, og så denne slubberten Morken da, som satt der hele tiden ... Du har rett, der var noe ved ham - men hvorfor? Hvorfor?" 
+"Han er kommet på andre tanker i løpet av natten, skal du se." 
+"Nei, tvert imot, tvert imot! Hvis de virkelig hadde hatt en så hjerneløs tanke, ville de av alle krefter ha forsøkt å skjule den, og holdt sine kort tett inn til kroppen, for så å gripe deg senere ... Men dette som nå har skjedd - det er jo både uforskammet og uforsiktig!"
+"Hvis de hadde hatt kjensgjerninger å holde seg til, og da mener jeg virkelige kjensgjerninger, eller i det minste en mistanke som var noenlunde vel begrunnet, ville de utvilsomt ha skjult sitt spill, i håp om å vinne enda mer (da ville de forøvrig også for lengst ha foretatt husundersøkelse!). Men de har ingen kjensgjerninger, ikke så mye som en eneste en - alt sammen er hjernespinn, fantasifostre, flyveideer - og derfor er det også at de forsøker å gjøre en forvirret ved å være uforskammet. Eller det kan være at han selv er blitt sint fordi det ikke foreligger noen kjensgjerninger, og så har han latt denne ergrelsen løpe av med seg ... Kanskje har han også sin spesielle hensikt med dette ... Han er visst en forstandig mann ... Kanskje ville han skremme meg med det han vet ... Her er det nok noe psykologisk på ferde ... Forresten byr det meg imot å prøve å finne ut av dette. Vi lar det heller være!"
+D27
+CP_41
+"Så gjerne, så gjerne. Søstera di, Marianne Granberg, akter jo å gifte seg med Lars Magnus Ottum, er det ikke så?" 
+"Jeg vil be deg om å la min søster i fred, og ikke nevne hennes navn. Jeg fatter ikke at du i det hele tatt våger å nevne hennes navn i mitt nærvær. For du er jo Hans Selland, ikke sant?" 
+"Men det er jo på grunn av henne at jeg er kommet til deg. Hvordan skal jeg da kunne unngå å nevne henne?" 
+"Godt. Så snakk da. Men skynd deg!"
+D28
+CP_81
+"Hør nå her. Dette er ikke stedet for denslags!" 
+"Hvorfor er det ikke det da?" 
+"Nei, fordi det ikke er det." 
+"Vel, for meg kan det komme ut på ett. Dette stedet passer meg godt. Hvis noen skulle komme og spørre etter meg, så si at jeg har dratt til Amerika."
+D29
+CP_79
+"Har du te?"
+“Ja."
+"Hva ellers?" 
+"Kalvestek, vodka, hors d'oeuvres." 
+"Bring meg kalvestek og te."
+D30
+CP_47
+" Så dette er altså rommet som  du leier av Rannum?" 
+"Ja ... " 
+"De er der inne, bak døren?" 
+"Ja ... de har akkurat samme værelse som dette."
+"De bor alle sammen på ett eneste rom?" 
+"Ja, alle sammen i ett værelse."
+D31
+CP_25
+"Nåvel, så slå opp med henne da." 
+"Nei, men det kan jeg da ikke gjøre sånn uten videre." 
+"Hvorfor ikke?" 
+"Nei, det går bare ikke an, og dermed basta! Du skjønner, at hun fremdeles utøver en viss tiltrekning på meg."
+"Og hvorfor forførte du henne så?" 
+"Jeg har slett ikke forført henne, ja kanskje er det snarere slik at jeg selv er blitt forført, på grunn av min dumhet. Men for henne er det definitivt ett og det samme om det er deg eller meg, bare det er en som sitter ved siden av henne og sukker og akker seg. Du skjønner ... vel, nei, dette greier jeg ikke å forklare deg ... men du er jo så flink i matematikk, og du sysler jo fremdeles litt med denslags, etter det jeg vet ... så hvorfor ikke gi henne litt undervisning i integralregning, jeg spøker ikke, jeg mener det i fullt alvor, for henne er det absolutt ett fett hva som kommer ut av munnen din: Bare du sitter der, så vil hun se på deg og sukke, og det hele året igjennom. Blant annet foreleste jeg i det vide og brede, to dager i trekk, for henne om det prøyssiske Herrenhaus, fordi jeg ikke fant på noe annet å snakke med henne om. Og hva sa hun så til det? Intet annet enn å sukke og svette i sin lidenskap! Men snakke om kjærligheten må du ikke, for hun er så blyg at det rent er så krampen tar henne. Men du må gi henne inntrykk av at du ikke klarer å gå fra henne - det er nok for henne. Det er umåtelig komfortabelt hos henne, fullstendig som hjemme - du kan lese, sitte, ligge og skrive der ... Et kyss og annet slikt kan det også bli råd med, om du går frem med varsomhet ..." 
+"Men hva skal egentlig jeg med henne?" 
+"Å, er det ikke mulig å få deg til å forstå noen ting da! Du skjønner: Dere passer jo perfekt til hverandre! Jeg har tenkt på deg før også, i den forbindelse ... For du kommer jo til å ende på denne måten likevel! Og da må det vel være deg likegyldig om det skjer før eller siden? Fra den begynnelse som dundynen din utgjør, vil du kunne gå videre i et liv som kommer til å bestå av dundyner! Og ikke dundyner bare! Her vil du bli trukket inn i et fast og bekvemt mønster; dette er jo verdens ende, et anker, en stille havn, jordens navle, de tre hvalfisker som universet hviler på, essensen av blini-pannekaker, fete posteier med fiskefyll, ettermiddagste fra samovaren, stille sukk og varme damevester av den vatterte typen, lune liggebenker i ovnskroken - med andre ord, det er akkurat som om du skulle være død, men samtidig leve, du kommer altså til å få begge fordeler på en og samme tid! Nå vel, bror, nå har jeg for pokker sludret nok, nå er det på tide å krype til køys! Hør her: Det kan være at jeg våkner opp til natten, og da vil jeg stikke over og se til ham. Det er forresten sikkert helt unødvendig, han har det bare bra. Derfor behøver du heller ikke å uroe deg spesielt, men hvis du vil, kan du jo stikke bortom en gang du også. Men så sant du merker noe, sinnsforvirring, for eksempel, eller feber, eller forøvrig hva det måtte være, da må du straks vekke meg. Forresten er jeg sikker på at det ikke vil bli nødvendig ..."
+D32
+CP_61
+"Hun kom hit, alene, hun satt her, og vi snakket sammen." 
+"Hun?" 
+"Ja, hun." 
+"Hva sa du så ... jeg mener, hva sa du om meg?" 
+"Jeg fortalte henne at du var et meget godt menneske, rettskaffen og arbeidsom. At du elsker henne, sa jeg ikke for det vet hun selv." 
+"Det vet hun altså!" 
+"Ja, selvfølgelig! Uansett hvor det blir av meg, uansett hva som hender med meg - så vil du stå dem bi, lik et forsyn. Det sa jeg til henne. Og nå vil jeg så å si overgi dem begge i din varetekt, Gunvald. Jeg sier deg dette fordi jeg er helt og fullt forvisset om at du elsker henne, og jeg vet at du har et rent hjerte. Jeg vet også at hun vil kunne elske deg, og at hun kanskje elsker deg allerede. Så, avgjør nå selv etter ditt beste skjønn hva som er det beste - å begynne å drikke eller å la det være." 
+"Terje ... vet du hva ... nå ... Å, faen også! ... Men hvor er det du har tenkt deg hen da? Vet du hva: Hvis alt dette er en hemmelighet, så lar vi det bli med det! Men jeg ... å, jeg skal nok finne ut av denne hemmeligheten ... Jeg er sikker på at det bare er noe tull, noen latterlige bagateller som du har pønsket ut helt på egen hånd. Forøvrig er du et utmerket menneske! Et aldeles utmerket menneske!" 
+"Og jeg skulle nettopp tilføye da du avbrøt meg, at det var svært fornuftig av deg, da du her i stad erklærte at vi like godt kunne la disse mysteriene og hemmelighetene ligge. La dem foreløpig være, bekymre deg ikke med å finne ut av dem. Når tiden er inne, vil du få vite alt, det vil si akkurat når nødvendigheten tilsier det. I går sa en mann til meg, at mennesket trenger luft, luft, luft! Nå vil jeg oppsøke ham for å finne ut hva han mente med det."
+D33
+MM_02
+"Kommer det flere enn Gjersø til middag?"
+"Ikke som jeg vet."
+"Jeg håper det kommer flere. Så høres det ikke så godt når han spiser suppen."
+"Men i all verden, Anita, hva er det som er så spesielt når han spiser suppe?" 
+"Oppriktig talt, Bente, har du ikke hørt hvordan han skraper skjeen mot tallerkenen? Og så blunker han alltid før han sier noe. Jeg vet ikke om John Locke blunket, men hvis han gjorde det, synes jeg synd på den som satt rett overfor ham."
+D34
+MM_03
+"Er han ikke høyttravende nok, mener du?" 
+"Hanne er så streng. Hun tenker så mye på alt mulig, og så er hun så nøye med alt man sier. Det virker som om hun ikke liker noe av det Vathne gjør." 
+"Men hun må jo ha oppmuntret ham. Og det burde hun ikke ha gjort."
+"Ikke vær sint på Hanne, er du snill. Hun skjønner seg ikke på sånt, forstår du. Hun tenkte bare på disse husene han skulle bygge, og det hendte hun var uhøflig mot ham også. Men han er jo så snill så han la ikke merke til det engang."
+D35
+MM_06
+"Krangle? Tøys, vi har ikke kranglet. Hva var hensikten med å være venner hvis vi ikke skulle ha lov til å bli litt hissige av og til?"
+"Kan jeg fortelle det til noen, det du har sagt, mener jeg?"
+"Det får du bestemme selv. Jeg sier aldri noe jeg ikke vil at andre skal fortelle videre. Men nå må vi gå ned."
+D36
+MM_13
+"Nei, men ute i Rørvik hos gamle Falstad traff jeg en Helga Halvorsen."
+"Det er datteren, en flott pike."
+"Hun er svært stille av seg, jeg la nesten ikke merke til henne." 
+"Men du kan være sikker på at hun har lagt merke til deg." 
+"Jeg skjønner ikke riktig."
+D37
+MM_16
+"Vi kommer til å begynne å krangle, hvis du en gang til sier at hun er min tante."
+"Hva skal jeg si, da?"
+"Ingebjørg." 
+"Greit. Tenk om jeg ble kjent med henne uten din hjelp og fant ut at hun svært gjerne ville bli malt?"
+D38
+MM_35
+"Hvorfor skulle jeg fortelle deg om noe du ikke kan gjøre noe med? Det er bare vanlige, hverdagslige ting dessuten, men i det siste har det kanskje vært litt vanskeligere enn ellers."
+"Familieproblemer. Ikke vær redd for å snakke om sånt. Jeg kan tenke meg hva det er." 
+"Pappa har vært mer irritabel enn vanlig. Trond truer med å gi hele utdannelsen sin på båten og begynne med noe som ligger langt under hans stand. Og dessuten ..."
+D39
+MM_40
+"Men når det gjelder den støtten du har fått, må Valen ha overvunnet sin motvilje mot deg og det er jo beundringsverdig." 
+"Ja, når det gjelder de sakene, har han vist seg rettskaffen nok. Det var grusomt av familien å gjøre min farmor arveløs fordi hun hadde inngått de de kalte en mesallianse, enda det ikke var noe galt med den mannen hun valgte, bortsett fra at han var en polsk flyktning som måtte livnære seg med å gi privatundervisning." 
+"Jeg skulle ønske jeg hadde kjent henne! Jeg lurer på hvordan hun klarte å leve i fattigdom etter at hun hele livet hadde vært så rik. Jeg lurer på om hun var lykkelig med sin mann. Hva vet du om dem?"
+"Ikke mye. Bare at min farfar var patriot - en dyktig fyr - snakket flere språk. Musikalsk var han også forsørget seg med å undervise i alt mulig. De døde tidlig begge to. Jeg har aldri visst særlig mye om min far, bortsett fra det mor fortalte meg, men han var musikalsk som faren. Jeg husker at han alltid gikk svært langsomt, og at han hadde lange, smale hender. En dag har festet seg spesielt godt i minnet; han var syk og lå til sengs, og jeg var sulten, og så hadde vi bare et lite brød i huset."
+D40
+MM_47
+"Han er ikke alltid like morsom å være sammen med, men han synger vakkert. Liker du ham?" 
+"Ja, jeg synes han er en bra kar; en sammensatt type, med litt av hvert i hodet, men sympatisk." 
+"Vet du hva jeg tror? Jeg tror han forguder Ellen Iversen!"
+
+D41
+MM_52
+"Men vær nå litt rimelig, da, Rannum. Tilbake til Kristin. Det er sikkert best, som du sier, at hun flytter til Linda så snart som mulig. Hun kan bo hos dere mens det hele glir over. La oss ikke foregripe begivenhetenes gang, hva? Malmin vil holde tett om vi ber ham, og dette blir gammelt nytt før noen får høre om det. Tusen ting kan ha ført Enberg herfra innen den tid, uten at vi har behøvd å foreta oss noe som helst." 
+"Mener du med det å si at du ikke vil gjøre noe i det hele tatt?" 
+"Vil og vil, hm. Nei, jeg har ikke sagt at jeg ikke vil. Men jeg skjønner ikke helt hva jeg kan gjøre. Enberg er en gentleman." 
+"Det var da godt det, da!"
+D42
+MM_59
+"Men hva skal du gjøre i Leknes da, Elin? Du har jo selv sagt at det ikke er noe å gjøre der; alle lever jo så godt, er så rene og friske at du blir rent bedrøvet. Og her har du jo vært så lykkelig når du har kunnet bli med Fehn inn på de verste søletun. Og nå som onkel er i utlandet, kan jo du og Kjos bestemme alt selv, og Anders gjør sikkert alt du vil." 
+"Jeg skal komme og besøke dere så ofte jeg kan, og så vil jeg jo bedre kunne se hvordan lille Morten vokser og utvikler seg."
+"Men du kommer ikke til å få se når han blir badet, og det er det morsomste av alt."
+D43
+MM_65
+"Om vi reiste fra Trondheim, ville vi selvfølgelig bli nødt til å selge, og det kunne kanskje være like bra."
+"Men vi skal jo ikke reise fra Trondheim." 
+"Jeg tror det ville være best om vi gjorde det, Marius. Hvorfor kan vi ikke reise til Oslo? Eller til et sted i nærheten av Kristiansand, hvor din familie er kjent?" 
+"Vi kan ikke reise noen steder uten penger, Ragnhild."
+D44
+MM_69
+"Å, han oppfører seg jo ikke som en militærkaptein, selvfølgelig, eller som om han var finere enn alle andre; han forsøker ikke å vise seg på noen måte, med å diskutere eller synge eller late som om han er klokere enn alle andre. Men det er jeg bare glad for. Sånt kommer man ikke langt med hverken i denne verden eller den neste." 
+"Nei, det har Dduvirkelig rett i. Slike utvendige ting har lite med ekte lykke å gjøre. Det virker som om de skulle ha alle muligheter til å få et lykkelig ekteskap. Hvor skal de bo, forresten?" 
+"Nei, det vet vi faktisk ikke ennå. De blir nok nødt til å ta til takke med det de kan få. De har sett på et hus på Olav Kyrres plass, ved siden av Dokken; det er han som eier det, og nå holder han på å sette det i stand; det skal visst bli svært bra. De vil antagelig ikke finne noe bedre. Jeg tror faktisk at Tor kommer til å bestemme seg for det i dag." 
+"Det er sikkert et hyggelig hus; jeg har alltid likt Olav Kyrres plass."
+D45
+MM_70
+"Hvor mye er det disse skrekkelige menneskene forlanger?" 
+"Hvilke skrekkelige mennesker?" 
+"De som satte opp listen over innboet - og de andre. Jeg mener, hvor mye penger må de ha for at de skal slutte å plage deg med dette?"
+D46
+MM_78
+"Har du noe imot det, Daniel?"
+"Gjør som du vil. Men det er jo ingen øyeblikkelig krise. Det haster ikke ennå."
+"Jeg flytter ikke før i morgen. Jeg må pakke klær og sånt."
+D47
+MM_74
+"Du har vært der ofte selv i det siste, da?"
+"Å, en fem-seks ganger kanskje."
+"Og jeg som trodde du hadde gode grunner for å slutte å gå der?"
+D48
+JE_1
+"Hva gjorde du bak gardinen?" 
+"Jeg leste." 
+"Vis meg boken."
+D49
+JE_2
+"Jeg får prøve." 
+"Vil du ha noe å drikke, eller kanskje noe å spise?" 
+"Nei takk, Berit." 
+"Da tror jeg at jeg går og legger meg, for klokken er over tolv; men du kan rope på meg hvis det er noe du vil ha i løpet av natten."
+D50
+JE_11
+"Så godt jeg har det! Den siste hosteanfallet gjorde meg litt trett, det føles som om jeg kunne sove; men ikke gå fra meg, Julie, jeg liker å ha deg hos meg." 
+"Jeg blir hos deg, kjæreste Mona, ingen skal få meg vekk herfra." 
+"Har du det varmt nok, kjære?" 
+"Ja."
+"God natt, Julie." 
+"God natt, Mona."
+D51
+JE_15
+"Kjenner du Espen Balke?" 
+"Nei, jeg har aldri sett ham." 
+"Så da bor han der altså ikke?"
+D52
+JE_17
+"Hvor gammel var du da du kom til Horten?" 
+"Rundt ti." 
+"Og du ble der i åtte år; da er du altså atten?"
+D53
+JE_23
+"Det er det samme for meg, gamlemor, du får gjøre som du vil; men jeg advarer deg om at jeg ikke tror på slikt."
+"Det ligner den frekkheten din å si det; det var det jeg tenkte, jeg hørte det i skrittene da du trådte over terskelen." 
+"Gjorde du det? Du har et oppmerksomt øre." 
+"Det har jeg, og et oppmerksomt øye og en oppmerksom hjerne." 
+"Du trenger dem alle i dine fag." 
+"Det gjør jeg, og især når jeg har med slike som deg å gjøre. Hvorfor skjelver du ikke?" 
+"Jeg er ikke kald." 
+"Hvorfor blekner du ikke?" 
+"Jeg er ikke syk." 
+"Hvorfor benytter du deg ikke av mine kunster?" 
+"Jeg er ikke dum."
+D54
+JE_28
+"Liker du soloppgangen, Ingrid? Denne himmelen med de høye, lette skyene som helt sikkert vil løse seg opp når dagen blir varmere - denne fredfulle luften?" 
+"Ja, veldig." 
+"Du har hatt en underlig natt, Ingrid."
+D55
+JE_30
+"Arne Borger døde for en uke siden i går, i leiligheten sin i Mandal."
+"Arne Borger?" 
+"Ja." 
+"Og hvordan tar hans mor det?" 
+"Vel, du skjønner, Liss, at det var ikke noe alminnelig uhell; han levde et vilt liv, de tre siste årene hadde han lagt seg til noen merkelige vaner, og måten han døde på var sjokkerende." 
+"Jeg hørte av Ida at det ikke gikk godt med ham."
+D56
+JE_34
+"Tviler du, Randi?" 
+"Ja." 
+"Har du ingen tillit til meg?" 
+"Ikke det grann."
+D57
+JE_39
+"Hvordan går det med deg, Tove?" 
+"Mye bedre, jeg er snart bra." 
+"Drikk litt mer av vinen, Tove."
+D58
+JE_46
+"Det vet jeg." 
+"Var det ditt forslag?" 
+"Nei." 
+"Hvis da?" 
+"Hans datters, tror jeg." 
+"Det ligner henne, hun er så godhjertet." 
+"Ja."
+D59
+JE_50
+"Har du bruk for henne?" 
+"Ja, for å bli med meg til familien Beito; Nora og Thea kommer om en uke, og jeg vil ha alt i orden til da." 
+"Jeg forstår; jeg trodde det var for å fyke av sted på en eller annen ekskursjon. Det er bedre slik; May skal bli med deg." 
+"Be henne være klar til i morgen, da, og her er nøkkelen til skolen; du skal få nøkkelen til huset mitt i morgen tidlig."
+D60
+JE_56
+"Det gjør meg vondt å se den, og vondt å se øynene dine og arret i pannen etter brannen, og det verste er at man bare risikerer å elske deg mer på grunn av det, og gjøre stas på deg."
+"Jeg trodde du ville vemmes, Emilie, når du så armen og mitt arrete ansikt." 
+"Gjorde du det? Ikke si det - i tilfelle jeg skulle si noe nedsettende om din dømmekraft. Så, la meg nå få forlate deg et øyeblikk, for å få bedre varme på peisen og få feid opp rusket. Kan du merke når det brenner godt?" 
+"Ja, med høyre øye ser jeg en slags glød - et rødskjær." 
+"Og ser du vokslysene?" 
+"Svært vagt, som lysende skydotter." 
+"Kan du se meg?" 
+"Nei, min alv, men jeg er bare så altfor takknemlig over å kunne høre og kjenne deg." 
+"Når spiser du kveldsmat?" 
+"Jeg spiser aldri kveldsmat." 
+"Men det skal du i kveld. Jeg er sulten, og det samme er du, skulle jeg tro, du bare glemmer det."
+D61
+JE_60
+"Studerte han mye?" 
+"En god del." 
+"Hva da?" 
+"Hindustani." 
+"Og hva gjorde så du imens?" 
+"Jeg leste tysk, i begynnelsen." 
+"Underviste han deg?" 
+"Han kunne ikke tysk." 
+"Lærte han deg ingenting?" 
+"Litt hindustani." 
+"Borgers lærte deg hindustani?"
+D62
+AK_9
+"Flensburg og Flensburg, ja vel, men er de friske?" 
+"De kom i går." 
+"Vel, vi skulle ikke begynne med østers og så forandre hele planen? Nå?" 
+"Gjerne for meg. Helst ville jeg hatt kålsuppe og grøt, men det får man vel ikke her."
+D63
+AK_19
+"Nei takk." 
+"Hvor skal jeg føre deg?" 
+"Camilla Vestad er visst her. . . før meg til henne." 
+"Som du vil."
+D64
+AK_26
+"Men la bare være å tenke . . . " 
+"Kan ikke. Jeg har det godt bare sammen med barn, bare hos deg." 
+"Synd at du ikke kan komme til meg."
+D65
+AK_86
+"Kan du reise neste dag?" 
+"Nei, absolutt ikke. Ærendet jeg skal i, får jeg ikke fullmakt og penger til da."
+"Om det er slik det er, så reiser vi ikke i det hele tatt."
+"Men hvorfor ikke?"
+"Jeg reiser ikke senere. På mandag eller aldri!"
+D66
+AK_31
+"Gi beskjed, Stian, om at Aarhus kommer - jeg har bedt ham komme i dag - så må han få komme inn og vente . . . " 
+"Så det er Aarhus du skal selge skogen til?" 
+"Ja, kjenner du ham kanskje?"
+"Naturligvis. Med ham har jeg hatt forretninger som er opp- og avgjort."
+D67
+AK_34
+"Jeg har fått den, og sant å si forstår jeg ikke hva du har å bekymre deg over."
+"Jeg er bekymret fordi det ble bemerket overfor meg at du manglet her i dag og at du sist mandag var blitt påtruffet i Bergen."
+"Det finnes saker som det tilkommer bare dem å dømme om som er direkte interessert i dem, og den saken du er så bekymret over, er en sådan . . . " 
+"Ja vel, men så får man heller la være å stå i tjenesten og . . . "
+"Jeg ber deg ikke blande deg inn, nok om det."
+D68
+AK_40
+"Hva? Men du sa jo nettopp ..." 
+"Det vil si at jeg hverken går med på at den er god eller mulig." 
+"Det kan du vel ikke vite før du virkelig har forsøkt."
+D69
+AK_45
+"Hvorfor tror du at jeg vet det?" 
+"Fordi alle vet det." 
+"Nei, der tar du sannelig feil; jeg visste det ikke, skjønt jeg gjettet meg jo til det." 
+"Så! Ja, nå vet du det i alle fall." 
+"Jeg visste bare at det var et eller annet som pinte henne forferdelig, noe hun ba meg aldri snakke om. Og når hun ikke har sagt noe til meg, har hun ikke sagt noe til noen. Men hvordan gikk det med deg? Fortell meg det." 
+"Jeg har fortalt hvordan det gikk." 
+"Når?" 
+"Siste gang jeg var hos deg." 
+"Men vet du hva, jeg skal fortelle deg noe, jeg har så skrekkelig, skrekkelig ondt av henne. Du lider bare for stolthetens skyld ..."
+D70
+AK_48
+"Jo, jeg liker å spille krokket."
+"Men hør, hva gjør du for ikke å kjede deg? Bare man ser på deg, blir man lys til sinns. Du lever, jeg kjeder meg." 
+"Hvordan kan du kjede deg? Du er jo det aller muntreste selskap i hele Oslo."
+"Kan hende har de som ikke hører til vårt selskap, det enda kjedeligere; men vi, og ganske bestemt jeg, har det ikke morsomt, men skrekkelig, skrekkelig kjedelig."
+D71
+AK_51
+"Du har ingen overbevisning og har ikke hatt noen heller, du vil bare tilfredsstille din egenkjærlighet."
+"Vel, utmerket, men la meg så få fred!" 
+"Fred skal du få! Det har vært på tide lenge, faen ta deg! Og jeg beklager så mye at jeg kom!"
+D72
+AK_55
+"Har du kjent ham lenge?" 
+"Hvem kjenner ikke ham?" 
+"Og jeg ser at du tror han er et dårlig menneske?" 
+"Ikke noe dårlig menneske, men et null." 
+"Men det er ikke sant. Og du skulle skynde deg å bli kvitt slike tanker! Jeg hadde også svært så dårlig mening om ham, men han er det søteste og snilleste menneske på jorden. Han har et hjerte av gull." 
+"Hvordan har så du lært hans hjerte å kjenne?"
+D73
+AK_56
+"Hvor skal du hen?" 
+"Jeg skal på et møte." 
+"Vel, da blir jeg med. Er det i orden?"
+D74
+AK_6
+"Vel, så spiser vi middag sammen."
+"Middag? Men det er jo ikke noe spesielt om å gjøre, jeg må bare snakke et par ord med deg, spørre deg om en ting, og etterpå kan vi drøfte saken."
+"Så kom med disse ordene med en gang, så kan vi snakke sammen ved middagen."
+"Ordene er disse, forresten er det ikke noe spesielt."
+D75
+AK_66
+"Jonas, vet du hva jeg har bedt om ekstra, utenom det oppsatte?" 
+"At du må bli en bedre elev?" 
+"Nei."
+ "Leker?" 
+"Nei. Du gjetter det ikke. Det er noe veldig fint, men det er hemmelig! Når jeg får det, skal jeg fortelle deg det. Du har ikke gjettet det?"
+D76
+AK_69
+"Ja, men hva er det, da? Jeg vet ingen ting."
+"Hva, har du ikke hørt det?" 
+"Du skjønner, jeg er den siste som får vite om det."
+"Finnes det noe mer ondskapsfullt vesen enn denne Inger Dybdahl?" 
+"Men hva er det hun har gjort, da?" 
+"Min mann har fortalt meg . . . Hun har fornærmet Kari Dullum. Mannen hennes begynte å snakke med henne fra sin losje, og hun stelte i stand en scene for ham. Hun skal ha sagt noe fornærmelig høyt og så gått sin vei."
+D77
+AK_81
+"Det var sant alt sammen." 
+"Ja, det tviler jeg ikke på." 
+"Jo, du tviler. Du er misfornøyd, det ser jeg." 
+"Ikke et øyeblikk. Jeg er bare misfornøyd, det er sant nok, fordi du liksom ikke vil innrømme at det finnes plikter … " 
+"Plikter til å gå på konsert …" 
+"Men la oss ikke snakke om det."
+"Hvorfor ikke det da?" 
+"Jeg vil bare si at det kan komme absolutt nødvendige ting. Som når jeg nå må reise til Trondheim for å ordne noe med huset . . . Uff, Marit, hvorfor er du så irritabel? Vet du kanskje ikke at jeg ikke kan leve uten deg?"
+D78
+AK_83
+"Hun har for øvrig bestandig hatt svak helse." 
+"Var du i operaen i går?" 
+"Ja, det var jeg." 
+“Lucca var meget god."
+D79
+AK_85
+"Jeg trenger penger, jeg har ikke noe å leve av." 
+"Men du lever jo?" 
+"Ja, men jeg har gjeld."
+D80
+OT_14
+"Jeg gjorde det, men så bestemte jeg meg for å vente til jeg hadde hørt hva doktor Rosedahl sa."
+"Men hvorfor? Hvorfor risikere det som jo nesten skjedde? Om Sara hadde - nei, jeg kan ikke si det ordet nå - hvis sykdommen hadde utviklet seg annerledes, hvordan kunne du noensinne ha tilgitt deg selv, eller jeg noensinne blitt lykkelig igjen?"
+ "Hvis det hadde gått slik, Håkon, er jeg redd din lykke ville blitt knust uansett, og at om du nådde hit en dag før eller en dag senere, ville det betydd svært, svært lite."
+"Og hvem kan undres hvis det er slik, mor? Nei, hvorfor sier jeg hvis? Det er jo det - det er det - det vet du, mor - det må du jo vite."
+D81
+OT_10
+"Hvilken slags er Mathias, da?" 
+"Bleikfis. Jeg har en venn som har en gutt med bifftryne. En fin gutt, kaller de ham, med rundt hode, røde kinn og glaneøyne - ufyselig gutt, med kropp og lemmer som ser ut som de skal tyte ut gjennom blåtøyet - med stemme som en los og appetitt som en ulv. Jo takk, jeg kjenner ham!" 
+"Gi deg nå, ingenting av dette passer på Mathias Ege, så ham behøver du ikke bli sint på." 
+"Nei vel, så passer det ikke. Han kan være verre."
+D82
+OT_26
+"Jeg har aldri hørt navnet." 
+"Da bruker'n et annet imellom godtfolk det har jeg tenkt ofte nok. For ei stund sia, rett etter at Eirik blei lempa inni huset hos dere den innbruddsnatta, hørte jeg - for jeg hadde mistanke til mannen - at han og Aamodt snakka sammen i mørket. Og på det jeg hørte, skjønte jeg at Dahl - altså mannen jeg spørte om, ikke sant - " 
+"Ja, jeg er med."
+D83
+OT_46
+"Nei, nei. Det - det - vet jeg ingenting om. Jeg var på vei for å forhøre meg om hvordan det hang sammen da du innhentet meg. Jeg visste ikke grunnen; jeg trodde det var en vanlig krangel." 
+"Det var en delvis avsløring av hemmelighetene dine. Vil du nå avsløre det hele?" 
+"Ja."
+D84
+CP_77
+"For et ondt menneske du er! Du tillater deg å drive ap med meg ... Slipp meg ut ..." 
+"Men hvor vil du hen? Hvor vil du ta veien?" 
+"Jeg vil til ham. Hvor er han? Vet du det? Hvorfor er denne døren stengt? Det var jo denne døren vi kom inn gjennom, og nå er den låst. Når klarte du å låse den?"
+D85
+CP_86
+"Ulberg." 
+"Ja selvfølgelig, det var det jo. Ulberg. Du trodde vel virkelig ikke at jeg hadde glemt det? Noe slikt må du da ikke tro om meg ... Arne Jo ... Jo ... John, det var det visst, hva?" 
+"Arne Johan." 
+"Jaja, det var det jo! Arne Johan, Arne Johan! Der husket jeg det! Faktisk har jeg forhørt meg om deg en rekke ganger. Jeg må tilstå for deg at jeg har vært oppriktig lei for at jeg den gang behandlet deg så ... senere har jeg fått saken forklart, og jeg har nå fått vite at du er en ung forfatter, ja til og med lærd ... som er i ferd med å ta sine første skritt, om man så tør si ... Herregud, hvilken litterat, hvilken lærd har ikke begynt sin løpebane med å ta originale skritt! Jeg og min kone har begge stor respekt for litteraturen, ja min kone er til og med lidenskapelig opptatt av den! ... Litteraturen og kunsten! Er man bare en edel ånd, kan man ved hjelp av talent, kunnskap, forstand og geni oppnå alt det andre her i verden. En hatt, hva er nå for eksempel en hatt? En hatt er ikke annet enn en pannekake, et topplokk, jeg kan kjøpe en hatt i Zimmermanns butikk, men det som sitter under hatten, og det som hatten dekker over, se det kan jeg ikke kjøpe! ... Jeg skal si deg en ting jeg, at jeg ville egentlig oppsøkt deg for å oppklare denne saken, men så tenkte jeg at du kanskje ... Men nå glemmer jeg jo rent å spørre deg om det er noe jeg kan hjelpe deg med. Jeg hører at du har fått familie på besøk?" 
+"Ja, min mor og søster er kommet til byen."
+D86
+CP_85
+"Nei." 
+"Du kommer igjen?" 
+"Ja ... jeg kommer igjen."
+D87
+CP_26
+"Men hvem er det så som har fått vite det? Det er jo ikke andre enn deg og meg?"
+"Og Tande."
+"Nåvel da, og hva gjør det vel at Tande har fått vite det?"
+"Fra det ene til det andre, har du noen innflytelse på dem, jeg mener på moren og søsteren? Det er vel best vi er litt mer forsiktig med ham i dag ..."
+D88
+MM_14
+"Schön, schön. Ikke vær så morsk, da. Du er vel ikke sint på meg fordi jeg synes Maja Evertsen er den mest perfekte unge madonna jeg noen gang har sett?" 
+"Sint? For noe tull. Jeg har bare truffet henne en gang før, og da bare i noen minutter mens slektningen min presenterte oss for hverandre. Det var like før jeg dro fra Norge. De var ikke gift ennå da, og jeg visste ikke at de skulle til Roma." 
+"Men nå må du gå og besøke dem. Du klarer sikkert å finne ut hvor de bor når du vet hva de heter. Skal vi gå innom postkontoret? Og så kan du jo nevne portrettet med det samme." 
+"Pokker ta deg, Müller! Jeg vet ikke hva jeg skal gjøre, jeg. Jeg er ikke så pågående som deg." 
+D89
+MM_17
+"Jeg er så glad for at du kommer. Kanskje du forstår deg på kameer og kan si meg om disse virkelig er fine. Jeg ville gjerne hatt deg med da vi valgte dem, men Pollen var uenig, han mente vi ikke hadde tid til det. Han blir ferdig med arbeidet sitt i morgen og så reiser vi om tre dager. Men jeg er litt usikker på disse kameene. Vil du ikke sette deg og ta en titt på dem, er du snill?" 
+"Jeg vet ikke særlig mye om sånt, men jeg tror ikke det kan være noen tvil om disse, det er nydelig arbeid. Og fargen er fin også, de vil kle deg." 
+"Å, de er til min søster, hun har helt andre farger enn meg. Du traff henne i Florø, hun er lyshåret og svært pen, i hvert fall synes jeg det. Vi har aldri vært fra hverandre så lenge før. Hun er en herlig lillesøster, et fint lite menneske, aldri slem eller sur. Jeg fant ut før vi reiste at hun ønsket seg kameer, så jeg ville bli lei meg om de ikke var fine, til kameer å være, mener jeg."
+D90
+MM_21
+"Sa han noe direkte om hva han hadde planer om å hengi seg til?" 
+"Nei. Men han sa at han følte at din sjenerøsitet kunne være uheldig for ham. Han kommer selvfølgelig til å skrive til deg om det. Synes du ikke litt bedre om ham nå som han har tatt denne beslutningen?" 
+"Jeg vil vente og se hva han skriver til meg om saken."
+D91
+MM_23
+"Jeg er så fortvilet, Astrid. Om du bare visste hvor fortvilet jeg er, ville du synes synd på meg." 
+"Det er andre jeg synes mer synd på. Men egoistiske mennesker synes alltid deres egne følelser er viktigere enn alt annet i verden; det ser jeg nok av hver eneste dag." 
+"Det er ikke rettferdig av deg å si at jeg er egoistisk. Om du visste hva andre unge menn gjorde, ville du ikke synes jeg var så verst." 
+"Jeg vet bare at mennesker som bruker en masse penger på seg selv uten å vite hvordan de skal dekke utgiftene, må være egoistiske. De tenker bestandig på hva de kan gjøre for seg selv og ikke på hva andre kan tape på det.”
+"Hvem som helst kan være uheldig og oppdage at han ikke kan betale sånn som han hadde tenkt. Det finnes ikke bedre mann enn din far, og likevel kom han opp i vanskeligheter." 
+D92
+JE_3
+"Kanskje gjør du det, hvem vet? Har du noen andre slektninger enn Silje Flaa?"
+"Det tror jeg ikke." 
+"Ingen på farssiden?"
+D93
+JE_7
+"Kommer du langt herfra?" 
+"Jeg kommer fra et sted lenger nord, helt ved grensen til Finland." 
+"Kommer du til å dra tilbake noen gang?"
+D94
+JE_36
+"Før jeg ikke kan unngå det." 
+"Tror du jeg spiser som et menneskeetende monster, eller en gravrøver, siden du er redd for å dele et måltid med meg?" 
+"Jeg har ikke gjort meg opp noen mening om saken, men jeg vil gjerne fortsette som før en måned til."
+D95
+JE_44
+"Var elevene så oppmerksomme som du hadde ventet deg?" 
+"Ja visst." 
+"Liker du huset ditt?" 
+"Svært godt." 
+D96
+JE_8
+"Alle, Hege? Det er da bare åtti mennesker som har hørt deg bli kalt det, og i verden er det mange hundre millioner."
+"Men hva har jeg med millionene å gjøre? De åtti jeg kjenner, forakter meg."
+"Du tar feil, Jane, antagelig er det ikke en eneste én på skolen som forakter eller misliker deg; mange synes veldig synd på deg, det er jeg sikker på."
+"Hvordan kan de synes synd på meg etter det Fadness sa?"
+D97
+JE_55
+"Var det noen flere liv som gikk tapt?" 
+"Nei - det hadde kanskje vært bedre, det." 
+"Hva mener du?"
