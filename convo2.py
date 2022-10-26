@@ -43,12 +43,13 @@ for file in files:
           getid2 = False
           continue
         turn_no = turn_no + 1
+        modline = line.replace("\"", "")
         # Make sentences from sentence parts where ... is followed by an uppercase letter
-        modline = re.sub(r"\.\.\. ([A-Z])", r". \1", line)
+        modline = re.sub(r"\.\.\. ([A-Z])", r". \1", modline)
         # Remove the rest of ...
         modline = modline.replace("....", "").replace("...", "")
         # Add a trailing full stop where there's none
-        modline = re.sub(r"[A-Z …]\"$", ".", modline)
+        modline = re.sub(r"[A-Z …]$", ".", modline)
         turns.append({
           "no": turn_no,
           "word": len(line.split(" ")),
